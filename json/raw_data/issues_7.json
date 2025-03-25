@@ -1,0 +1,12 @@
+[
+    {
+        "fix_commit_hash": "d02f2d1fa7e46c61895d39c2adc40297c36e4cbe",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2020-05-13T17:11:37-07:00"
+    },
+    {
+        "fix_commit_hash": "a6e0f1b75a5b60dbb81288b22d78d9686c3b565c",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2017-02-03T09:38:08-08:00"
+    }
+]
