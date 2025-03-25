@@ -1,0 +1,52 @@
+[
+    {
+        "fix_commit_hash": "e2cd14d3207b582df0a909fd2563ec9d9f4ea405",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2016-03-10T01:36:20-05:00"
+    },
+    {
+        "fix_commit_hash": "bce02e3f518237c03273e3ed4d9d1a13d9f8f6a9",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2016-11-17T11:59:33-08:00"
+    },
+    {
+        "fix_commit_hash": "d71a67cdad3915eb1dd282f555ab26d61982e595",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2016-06-20T15:32:15-07:00"
+    },
+    {
+        "fix_commit_hash": "f90824fa178c2164d954a8f29a12309c7a06327e",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2020-04-13T13:40:55-07:00"
+    },
+    {
+        "fix_commit_hash": "1b124bfb87862a25a7b904e05929c23f0c61d0e2",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2016-11-02T11:26:33-07:00"
+    },
+    {
+        "fix_commit_hash": "0fcab30652f1b41104f1bc27c151ca34d2159583",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2016-05-23T11:47:33-07:00"
+    },
+    {
+        "fix_commit_hash": "ca5dc4256f8f0e6eece951ef5a4bf9a69ce5616a",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2020-08-18T21:48:13+03:00"
+    },
+    {
+        "fix_commit_hash": "718de6cd50fe522001d32b6cf89578aa11d373cd",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2016-04-01T13:31:12-07:00"
+    },
+    {
+        "fix_commit_hash": "041fe520281730daf67a338589ede748280086f0",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2018-09-18T02:37:47+10:00"
+    },
+    {
+        "fix_commit_hash": "5d7b13507e207ac06793034208b2d28b4140373b",
+        "repo_name": "superset",
+        "best_scenario_issue_date": "2020-04-29T17:21:31-07:00"
+    }
+]
